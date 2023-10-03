@@ -33,7 +33,7 @@ Join our growing community to ask questions, share your experiences, and connect
 
 ## License
 
-OpenSource Hub is released under the [GPL License](LICENSE.md). Feel free to use, modify, and distribute it in your projects.
+OpenSource Hub is released under the [GPL License](LICENSE). Feel free to use, modify, and distribute it in your projects.
 
 ## Acknowledgments
 
