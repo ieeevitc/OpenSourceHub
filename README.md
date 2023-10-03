@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# OpenSource Hub
+
+Welcome to OpenSource Hub, your go-to e-commerce platform for the open-source community. OpenSource Hub is a community-centric and highly customizable e-commerce solution designed to empower businesses, developers, and enthusiasts to create unique online shopping experiences while embracing the spirit of open source.
+
+## Features
+
+- **Community-Driven:** OpenSource Hub thrives on community contributions. We welcome developers, designers, and enthusiasts to join us in shaping the future of open-source e-commerce.
+
+- **Customization:** Tailor your e-commerce site to your unique needs. With our highly customizable platform, you can create the perfect shopping experience for your customers.
+
+- **Security:** Rest easy knowing your customers' data is secure. We prioritize security and follow best practices to protect your online store.
+
+- **Transparency:** We believe in transparency. Our codebase is open for all to inspect and contribute to, ensuring trust in our platform.
 
 ## Getting Started
 
-First, run the development server:
+To get started with OpenSource Hub, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. **Installation:** Check out our [Installation Guide](docs/installation.md) to set up your own instance.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Contributing:** Interested in contributing? Check out our [Contributor's Guide](link-to-contributors-guide) and get involved in the community.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### This part is coming soon
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**Customization:** Dive into our [Customization Docs](link-to-customization-docs) to make your storefront unique.
 
-## Learn More
+## Community
 
-To learn more about Next.js, take a look at the following resources:
+Join our growing community to ask questions, share your experiences, and connect with other e-commerce enthusiasts:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Website](https://edu.ieee.org/in-vit-chennai)
+- [Discord Chat](https://discord.gg/qcYM5Ans)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
+OpenSource Hub is released under the [GPL License](LICENSE.md). Feel free to use, modify, and distribute it in your projects.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Acknowledgments
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+We would like to express our gratitude to the open-source community for their invaluable contributions and support.
+
+Happy e-commerce, and welcome to the OpenSource Hub family!
