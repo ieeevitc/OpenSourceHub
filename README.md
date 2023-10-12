@@ -40,3 +40,5 @@ OpenSource Hub is released under the [GPL License](LICENSE). Feel free to use, m
 We would like to express our gratitude to the open-source community for their invaluable contributions and support.
 
 Happy e-commerce, and welcome to the OpenSource Hub family!
+
+This project is hacktoberfest ready.
